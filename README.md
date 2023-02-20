@@ -81,4 +81,7 @@ Number of Players – the original game is you versus the AI. This game is betwe
 
 Removed Cards – removed one of the wenches to keep the deck as small as possible.
 
-SOURCE : https://twobitgames.wordpress.com/2009/07/11/gdcu-level-4-game-design-bomba-yar/
+# SOURCE : 
+GDCU : https://twobitgames.wordpress.com/2009/07/11/gdcu-level-4-game-design-bomba-yar/
+Ref : https://the-sims-2-ds.fandom.com/wiki/Keelhaulin%27
+Wiki : https://en.wikipedia.org/wiki/Keelhauling
