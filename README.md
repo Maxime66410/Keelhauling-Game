@@ -60,7 +60,8 @@ Draw a card, either from the draw pile or the discard pile. If you find or alrea
 Bottle of Rum – place the card in the “Walk the Plank!” pile and draw at least 2 cards from the draw pile. You cannot have more than 10 cards in your hand. For example, if you have 9 cards, you can only draw one card.
 If you have 3 or 4 of the same pirate card, make them walk the plank! Place the matching cards in the Walk the Plank! pile face up. For each pirate card you have removed from the game, place one gold coin in the treasure chest coin pile.
 Discard. After drawing a card and playing your hand (if applicable), discard one card into the discard pile. Play continues in a clockwise motion.
-###WINNING THE GAME
+
+### WINNING THE GAME
 Round Win
 The first player to discard all of their cards in a round wins the round and takes whatever booty is in the treasure chest pile. Each coin is worth 10 points.
 
